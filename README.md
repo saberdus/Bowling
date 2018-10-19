@@ -7,12 +7,12 @@ The application informs which bowler is to take turn and asks for the number of 
 throw by user input. After each throw the score will be shown in form of a simple text output by the application.
 
 # Game Rules
-1- The number of bowlers is limited by minimum 2 and maximum 6.
-2- The game is played in 10 turns. The turn of one bowler is called FRAME. There are 10 pins present in every frame.
-3- A bowler rolls the ball one or two times in a frame (there is an exception: the last frame can consist of a third roll).
+1. The number of bowlers is limited by minimum 2 and maximum 6.
+2. The game is played in 10 turns. The turn of one bowler is called FRAME. There are 10 pins present in every frame.
+3. A bowler rolls the ball one or two times in a frame (there is an exception: the last frame can consist of a third roll).
 
 # Game description
-A bowler A rolls the first ball and knocks down same pins by maximum 10 pins in each frame. If all 10 pins are knocked down,
+A bowler rolls the first ball and knocks down same pins by maximum 10 pins in each frame. If all 10 pins are knocked down,
 then this roll is called a STRIKE. In this case the frame is completed for the mentioned bowler A and bowler B takes turn.
 If one or more pins remain then bowler A rolls the ball a second time for the remaining pins. Are all remaining pins knocked 
 down then this second roll is called A SPARE.  
